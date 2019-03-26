@@ -1,0 +1,9 @@
+{
+  "name": "rust-render-url",
+  "public": true,
+  "version": 2,
+  "builds": [{
+    "src": "index.rs",
+    "use": "@now/rust"
+  }]
+}

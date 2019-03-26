@@ -1,0 +1,12 @@
+[package]
+name = "rust-render-url"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+http = "0.1"
+
+[lib]
+name = "rustrenderurl"
+path = "lib.rs"
+test = true
