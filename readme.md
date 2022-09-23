@@ -1,6 +1,6 @@
 # now-examples
 
-> now examples written by my self (for study)
+> now examples written by my self (for study), "now" is deprecated and will stop receiving updates on December 31, 2020. Please use "vercel" instead.
 
 # Examples
 
